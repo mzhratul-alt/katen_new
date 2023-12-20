@@ -309,7 +309,7 @@
         <!-- ========== footer end =========== -->
     </main>
     <!-- ======== main-wrapper end =========== -->
-
+<hello></hello>
     <!-- ========= All Javascript files linkup ======== -->
     <script src="{{ asset('backend/assets/js/jquery-3.7.1.min.js') }}"></script>
     <script src="{{ asset('backend/assets/js/bootstrap.bundle.min.js') }}"></script>
