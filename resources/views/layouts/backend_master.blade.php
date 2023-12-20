@@ -34,7 +34,7 @@
         </div>
         <nav class="sidebar-nav">
             <ul>
-                <li class="nav-item {{ Route::is('dashboard')? 'active':'' }}">
+                <li class="nav-item {{ Route::is('dashboard') ? 'active' : '' }}">
                     <a href="{{ route('dashboard') }}">
                         <span class="icon">
                             <i class="lni lni-grid-alt"></i>
@@ -309,7 +309,10 @@
         <!-- ========== footer end =========== -->
     </main>
     <!-- ======== main-wrapper end =========== -->
-<hello></hello>
+    lkjdf
+    hklsdf
+    ljklhkdf
+
     <!-- ========= All Javascript files linkup ======== -->
     <script src="{{ asset('backend/assets/js/jquery-3.7.1.min.js') }}"></script>
     <script src="{{ asset('backend/assets/js/bootstrap.bundle.min.js') }}"></script>
@@ -327,6 +330,3 @@
 </body>
 
 </html>
-
-
-
